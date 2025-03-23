@@ -23,7 +23,7 @@ permalink: /location/siargao/
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <title>Placeholder</title>
-            <image href="{{ site.baseurl }}/images/spotted_pigs/spotted_pigs_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/spotted_pigs/spotted_pigs_1.jpg" width="110%" height="100%" />
             <!-- <rect width="100%" height="100%" fill="#55595c"/>
             <text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text> -->
           </svg>
@@ -45,7 +45,7 @@ permalink: /location/siargao/
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <title>Placeholder</title>
-            <image href="{{ site.baseurl }}/images/white_beard_coffee/white_beard_coffee_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/white_beard_coffee/white_beard_coffee_1.jpg" width="110%" height="100%" />
             <!-- <rect width="100%" height="100%" fill="#55595c"/>
             <text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text> -->
           </svg>

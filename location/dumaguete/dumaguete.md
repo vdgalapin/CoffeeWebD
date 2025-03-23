@@ -20,7 +20,7 @@ permalink: /location/dumaguete/
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <image href="{{ site.baseurl }}/images/kasikas/kasikas_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/kasikas/kasikas_1.jpg" width="110%" height="100%" />
           </svg>
         </div>
       </div>
@@ -35,7 +35,7 @@ permalink: /location/dumaguete/
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <image href="{{ site.baseurl }}/images/but_first_coffee/but_first_coffee_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_1.jpg" width="110%" height="100%" />
           </svg>
         </div>
       </div>
@@ -52,7 +52,7 @@ permalink: /location/dumaguete/
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <image href="{{ site.baseurl }}/images/kapeng_local/kapeng_local_1.JPEG" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/kapeng_local/kapeng_local_1.JPEG" width="110%" height="100%" />
           </svg>
         </div>
       </div>
@@ -71,7 +71,7 @@ permalink: /location/dumaguete/
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
-            <image href="{{ site.baseurl }}/images/uncharted_coffee/uncharted_coffee_1.JPEG" width="110%" height="100%"/>
+            <image href="{{ site.baseurl }}/assets/images/uncharted_coffee/uncharted_coffee_1.JPEG" width="110%" height="100%"/>
           </svg>
         </div>
       </div>

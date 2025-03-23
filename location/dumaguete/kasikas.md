@@ -37,8 +37,8 @@ permalink: /location/dumaguete/kasikas
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="{{ site.baseurl }}/images/kasikas/kasikas_1.jpg" alt="Slide 1">
-                <img src="{{ site.baseurl }}/images/kasikas/kasikas_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/kasikas/kasikas_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/kasikas/kasikas_2.jpg" alt="Slide 2">
             </div>
         </div>
       </div>

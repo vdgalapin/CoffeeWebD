@@ -37,10 +37,10 @@ permalink: /location/dumaguete/but_first_coffee
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="/images/but_first_coffee/but_first_coffee_1.jpg" alt="Slide 1">
-                <img src="/images/but_first_coffee/but_first_coffee_2.jpg" alt="Slide 2">
-                <img src="/images/but_first_coffee/but_first_coffee_3.jpg" alt="Slide 3">
-                <img src="/images/but_first_coffee/but_first_coffee_4.jpg" alt="Slide 4">
+                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_3.jpg" alt="Slide 3">
+                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_4.jpg" alt="Slide 4">
             </div>
         </div>
       </div>
@@ -53,5 +53,5 @@ permalink: /location/dumaguete/but_first_coffee
         </a>
     </div> -->
   </article>
-  <script src="/assets/js/slideshow.js">
+  <script src="{{ site.baseurl }}/assets/js/slideshow.js">
 </div>

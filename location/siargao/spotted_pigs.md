@@ -37,9 +37,9 @@ permalink: /location/dumaguete/spotted_pigs
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="{{ site.baseurl }}/images/spotted_pigs/spotted_pigs_1.jpg" alt="Slide 1">
-                <img src="{{ site.baseurl }}/images/spotted_pigs/spotted_pigs_2.jpg" alt="Slide 2">
-                <img src="{{ site.baseurl }}/images/spotted_pigs/spotted_pigs_3.jpg" alt="Slide 3">
+                <img src="{{ site.baseurl }}/assets/images/spotted_pigs/spotted_pigs_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/spotted_pigs/spotted_pigs_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/spotted_pigs/spotted_pigs_3.jpg" alt="Slide 3">
             </div>
         </div>
       </div>

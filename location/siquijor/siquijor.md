@@ -23,7 +23,7 @@ permalink: /location/siquijor/
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <title>Placeholder</title>
-            <image href="{{ site.baseurl }}/images/kape_de_guyod/kape_de_guyod_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/kape_de_guyod/kape_de_guyod_1.jpg" width="110%" height="100%" />
             <!-- <rect width="100%" height="100%" fill="#55595c"/>
             <text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text> -->
           </svg>
@@ -45,7 +45,7 @@ permalink: /location/siquijor/
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <title>Placeholder</title>
-            <image href="{{ site.baseurl }}/images/jainin_cafe/jainin_cafe_1.jpg" width="110%" height="100%" />
+            <image href="{{ site.baseurl }}/assets/images/jainin_cafe/jainin_cafe_1.jpg" width="110%" height="100%" />
             <!-- <rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text> -->
           </svg>
         </div>
