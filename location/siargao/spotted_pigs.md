@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/dumaguete/spotted_pigs
+permalink: /location/siargao/spotted_pigs
 ---
 
-<div id="Location" style="display:none;" class="Dumaguete"></div>
+<div id="Location" style="display:none;" class="Siargao"></div>
 <div class="container">     
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">Spotted Pigs</h2>
