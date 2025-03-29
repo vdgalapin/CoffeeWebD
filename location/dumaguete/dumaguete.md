@@ -18,8 +18,13 @@ permalink: /location/dumaguete/
               Continue reading
           </a>
         </div>
-        <div class="col-auto d-none d-lg-block">
+        <div class="col-auto d-none d-sm-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/kasikas/kasikas_1.jpg" width="110%" height="100%" />
+          </svg>
+        </div>
+        <div class="col-auto d-block d-sm-none">
+          <svg class="bd-placeholder-img" width="120" height="170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <image href="{{ site.baseurl }}/assets/images/kasikas/kasikas_1.jpg" width="110%" height="100%" />
           </svg>
         </div>
@@ -33,8 +38,13 @@ permalink: /location/dumaguete/
           <div class="mb-1 text-body-secondary">February 23, 2025</div>
           <a href="{{ site.baseurl }}/location/dumaguete/but_first_coffee" class="icon-link gap-1 icon-link-hover stretched-link"> Continue reading </a>
         </div>
-        <div class="col-auto d-none d-lg-block">
+        <div class="col-auto d-none d-sm-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_1.jpg" width="110%" height="100%" />
+          </svg>
+        </div>
+        <div class="col-auto d-block d-sm-none">
+          <svg class="bd-placeholder-img" width="120" height="170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <image href="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_1.jpg" width="110%" height="100%" />
           </svg>
         </div>
@@ -50,8 +60,13 @@ permalink: /location/dumaguete/
             Continue reading
           </a>
         </div>
-        <div class="col-auto d-none d-lg-block">
+        <div class="col-auto d-none d-sm-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/kapeng_local/kapeng_local_1.JPEG" width="110%" height="100%" />
+          </svg>
+        </div>
+        <div class="col-auto d-block d-sm-none">
+          <svg class="bd-placeholder-img" width="120" height="170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <image href="{{ site.baseurl }}/assets/images/kapeng_local/kapeng_local_1.JPEG" width="110%" height="100%" />
           </svg>
         </div>
@@ -69,9 +84,14 @@ permalink: /location/dumaguete/
             <svg class="bi"><use xlink:href="#chevron-right"/></svg>
           </a>
         </div>
-        <div class="col-auto d-none d-lg-block">
+        <div class="col-auto d-none d-sm-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
             <image href="{{ site.baseurl }}/assets/images/uncharted_coffee/uncharted_coffee_1.JPEG" width="110%" height="100%"/>
+          </svg>
+        </div>
+        <div class="col-auto d-block d-sm-none">
+          <svg class="bd-placeholder-img" width="120" height="170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/uncharted_coffee/uncharted_coffee_1.JPEG" width="110%" height="100%" />
           </svg>
         </div>
       </div>
