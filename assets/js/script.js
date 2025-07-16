@@ -13,6 +13,9 @@ window.onload = function() {
             case "Siquijor":
                 document.getElementById("SiquijorHeader").style.fontWeight = "Bold";
                 break;
+            case "Thailand":
+                document.getElementById("ThailandHeader").style.fontWeight = "Bold";
+                break;
             default:
     
         }
