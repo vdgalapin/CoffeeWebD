@@ -8,7 +8,7 @@ permalink: /location/thailand/after_you
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">After you</h2>
     <p class="blog-post-meta">
-      July 17, 2025 by <!-- <a href="#"> --> Vyron Galapin <!--</a>-->
+      July 15, 2025 by <!-- <a href="#"> --> Vyron Galapin <!--</a>-->
       <div class="business-info">
         <div class="info-item">
             <i class="fas fa-map-marker-alt"></i>

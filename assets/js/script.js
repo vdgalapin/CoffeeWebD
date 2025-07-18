@@ -16,6 +16,9 @@ window.onload = function() {
             case "Thailand":
                 document.getElementById("ThailandHeader").style.fontWeight = "Bold";
                 break;
+            case "Vietnam":
+                document.getElementById("VietnamHeader").style.fontWeight = "Bold";
+                break;
             default:
     
         }
