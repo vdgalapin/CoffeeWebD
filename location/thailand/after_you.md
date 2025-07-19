@@ -39,6 +39,7 @@ permalink: /location/thailand/after_you
             That croffle completely blew us away. It was buttery, crispy, and warm, perfectly paired with the smooth, not-too-sweet ice cream on top. It instantly became one of our most memorable café desserts. Ever since that day, my girlfriend has been craving croffles wherever we go. Nothing else has quite matched that first bite at After You.
             <br/>
             Even though we kept it simple with our orders, the quality and flavor were enough to leave a lasting impression. The vibe of the café was cozy yet modern, with just the right balance of comfort and class. It wasn’t just a quick coffee stop - it felt like a full experience.
+            <br />
             If you ever find yourself in Bangkok, don’t skip After You. Be prepared to wait a bit, especially during peak hours, but know that it’s absolutely worth it. Whether you go for a drink, dessert, or both, it’s one of those places that makes you appreciate the little indulgences in life.
  </p>
         </blockquote>
