@@ -12,6 +12,29 @@ permalink: /location/thailand/
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
           <strong class="d-inline-block mb-2 text-primary-emphasis">Chiang Mai - Old Town</strong>
+          <h3 class="mb-0">HappyBlue Cofee</h3>
+          <div class="mb-1 text-body-secondary">July 22, 2025</div>
+          <p>  A Calm and Cozy Spot to Wrap Up Your Chiang Mai Trip </p>
+          <a href="{{ site.baseurl }}/location/thailand/happyblue_coffee" class="icon-link gap-1 icon-link-hover stretched-link">
+              Continue reading
+          </a>
+        </div>
+        <div class="col-auto d-none d-sm-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/thailand/HappyBlue Coffee 4.jpg" width="110%" height="100%" />
+          </svg>
+        </div>
+        <div class="col-auto d-block d-sm-none">
+          <svg class="bd-placeholder-img" width="120" height="170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false">
+            <image href="{{ site.baseurl }}/assets/images/thailand/HappyBlue Coffee 4.jpg" width="110%" height="100%" />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-primary-emphasis">Chiang Mai - Old Town</strong>
           <h3 class="mb-0">Neighborhood Goods</h3>
           <div class="mb-1 text-body-secondary">July 19, 2025</div>
           <p> Not Worth the Hype (At least for Me) </p>
