@@ -36,7 +36,7 @@ permalink: /location/vietnam/
         <div class="col p-4 d-flex flex-column position-static">
           <strong class="d-inline-block mb-2 text-primary-emphasis">Ho Chi Minh - District 1 </strong>
           <h3 class="mb-0">Yoshi Yoshi</h3>
-          <div class="mb-1 text-body-secondary">July 17, 2025</div>
+          <div class="mb-1 text-body-secondary">July 22, 2025</div>
           <p> A Chill, Gen Z-Friendly Spot for Late-Night Drinks </p>
           <a href="{{ site.baseurl }}/location/vietnam/yoshi_yoshi" class="icon-link gap-1 icon-link-hover stretched-link">
               Continue reading
