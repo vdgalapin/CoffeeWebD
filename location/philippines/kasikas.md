@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/dumaguete/kasikas
+permalink: /location/philippines/kasikas
 ---
 
-<div id="Location" style="display:none;" class="Dumaguete"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">Kasikas</h2>
@@ -37,8 +37,8 @@ permalink: /location/dumaguete/kasikas
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="{{ site.baseurl }}/assets/images/kasikas/kasikas_1.jpg" alt="Slide 1">
-                <img src="{{ site.baseurl }}/assets/images/kasikas/kasikas_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/philippines/kasikas_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/philippines/kasikas_2.jpg" alt="Slide 2">
             </div>
         </div>
       </div>

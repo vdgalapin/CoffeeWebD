@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/dumaguete/kapeng_lokal
+permalink: /location/philippines/kapeng_lokal
 ---
 
-<div id="Location" style="display:none;" class="Dumaguete"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
       <article class="blog-post">
         <h2 class="display-5 link-body-emphasis mb-1">Kapeng Lokal</h2>

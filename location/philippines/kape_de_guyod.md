@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/siquijor/kape_de_guyod
+permalink: /location/philippines/kape_de_guyod
 ---
 
-<div id="Location" style="display:none;" class="Siquijor"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">Kape De Guyod</h2>
@@ -37,9 +37,9 @@ permalink: /location/siquijor/kape_de_guyod
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="{{ site.baseurl }}/assets/images/kape_de_guyod/kape_de_guyod_1.jpg" alt="Slide 1">
-                <img src="{{ site.baseurl }}/assets/images/kape_de_guyod/kape_de_guyod_2.jpg" alt="Slide 2">
-                <img src="{{ site.baseurl }}/assets/images/kape_de_guyod/kape_de_guyod_3.jpg" alt="Slide 3">
+                <img src="{{ site.baseurl }}/assets/images/philippines/kape_de_guyod_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/philippines/kape_de_guyod_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/philippines/kape_de_guyod_3.jpg" alt="Slide 3">
             </div>
         </div>
       </div>

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /location/dumaguete/uncharted_coffee
+permalink: /location/philippines/uncharted_coffee
 ---
 
 
-<div id="Location" style="display:none;" class="Dumaguete"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">Uncharted Coffee</h2>

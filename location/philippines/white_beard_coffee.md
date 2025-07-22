@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/siargao/white_beard_coffee
+permalink: /location/philippines/white_beard_coffee
 ---
 
-<div id="Location" style="display:none;" class="Siargao"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
       <article class="blog-post">
         <h2 class="display-5 link-body-emphasis mb-1">White Beard Cofee</h2>

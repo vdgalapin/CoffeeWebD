@@ -4,14 +4,8 @@ window.onload = function() {
         let location = document.getElementById("Location").className;
     
         switch(location) {
-            case "Dumaguete":
-                document.getElementById("DumagueteHeader").style.fontWeight = "Bold";
-                break;
-            case "Siargao":
-                document.getElementById("SiargaoHeader").style.fontWeight = "Bold";
-                break;
-            case "Siquijor":
-                document.getElementById("SiquijorHeader").style.fontWeight = "Bold";
+            case "Philippines":
+                document.getElementById("PhilippinesHeader").style.fontWeight = "Bold";
                 break;
             case "Thailand":
                 document.getElementById("ThailandHeader").style.fontWeight = "Bold";

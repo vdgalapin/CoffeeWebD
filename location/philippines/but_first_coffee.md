@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /location/dumaguete/but_first_coffee
+permalink: /location/philippines/but_first_coffee
 ---
 
-<div id="Location" style="display:none;" class="Dumaguete"></div>
+<div id="Location" style="display:none;" class="Philippines"></div>
 <div class="container">     
   <article class="blog-post">
     <h2 class="display-5 link-body-emphasis mb-1">But First, Coffee</h2>
@@ -37,10 +37,10 @@ permalink: /location/dumaguete/but_first_coffee
       <div class="col-md-3">
         <div class="slideshow-container">
             <div class="slides">
-                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_1.jpg" alt="Slide 1">
-                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_2.jpg" alt="Slide 2">
-                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_3.jpg" alt="Slide 3">
-                <img src="{{ site.baseurl }}/assets/images/but_first_coffee/but_first_coffee_4.jpg" alt="Slide 4">
+                <img src="{{ site.baseurl }}/assets/images/philippines/but_first_coffee_1.jpg" alt="Slide 1">
+                <img src="{{ site.baseurl }}/assets/images/philippines/but_first_coffee_2.jpg" alt="Slide 2">
+                <img src="{{ site.baseurl }}/assets/images/philippines/but_first_coffee_3.jpg" alt="Slide 3">
+                <img src="{{ site.baseurl }}/assets/images/philippines/but_first_coffee_4.jpg" alt="Slide 4">
             </div>
         </div>
       </div>
