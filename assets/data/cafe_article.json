@@ -1,0 +1,728 @@
+[
+  {
+    "cafe_id": 1,
+    "country": "Philippines",
+    "cafe_name": "Jainin Cafe",
+    "date_created": "March 29, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "National Highway, San Juan, 6227 Siquijor",
+    "time": "Monday to Sunday 7:30 am – 8:30 pm",
+    "instagram": "https://www.facebook.com/jaininscafe/",
+    "facebook": "https://www.instagram.com/jaininscafe/",
+    "paragraphs": [
+      "Jainin's Cafe in San Juan, Siquijor, offers a delightful selection of coffee and pastries, making it a popular spot for both locals and visitors.",
+      "The café provides a cozy and inviting atmosphere, ideal for relaxation or catching up with friends. Patrons often praise the quality of their beverages and the friendly service.",
+      "While the café offers a variety of food options, some customers have noted that certain items may be slightly overpriced. Nonetheless, for those seeking a place with good coffee, tasty pastries, and a comfortable setting, Jainin's Cafe is a commendable choice."
+    ],
+    "images": [
+      "/assets/images/philippines/jainin_cafe_1.jpg",
+      "/assets/images/philippines/jainin_cafe_2.jpg",
+      "/assets/images/philippines/jainin_cafe_3.jpg"
+    ]
+  },
+  {
+    "cafe_id": 2,
+    "country": "Philippines",
+    "cafe_name": "White Beard Coffee",
+    "date_created": "March 28, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "SIARGAO ISLAND, POBLACION 1, General Luna, 8419 Surigao del Norte",
+    "time": "Monday to Sunday 6am – 5pm",
+    "instagram": "https://www.facebook.com/@whitebeardcoffeesiargao",
+    "facebook": "https://www.instagram.com/whitebeardcoffee?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "paragraphs": [
+      "White Beard Coffee in Siargao is a must-visit spot for coffee enthusiasts seeking a cozy and inviting atmosphere. Known for its exceptional coffee, the café offers a variety of beverages, including classic espressos and unique local blends, all expertly crafted by skilled baristas.",
+      "The menu also features delicious pastries and all-day breakfast options, making it a great place to start your day. The café's interior is adorned with local art, creating a warm and welcoming ambiance that encourages relaxation and socialization.",
+      "Whether you're looking to enjoy a quiet morning with a cup of coffee or a leisurely brunch, White Beard Coffee provides a delightful experience that captures the essence of Siargao's vibrant coffee culture."
+    ],
+    "images": [
+      "/assets/images/philippines/white_beard_coffee_1.jpg"
+    ]
+  },
+  {
+    "cafe_id": 3,
+    "country": "Philippines",
+    "cafe_name": "Spotted Pigs",
+    "date_created": "March 23, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "Tourism Rd, General Luna, 8419 Surigao del Norte",
+    "time": "Monday to Sunday 7am – 6pm",
+    "instagram": "https://www.instagram.com/spottedpigsiargao/",
+    "facebook": "https://www.facebook.com/spottedpigsiargao",
+    "paragraphs": [
+      "This Siargao cafe, highly recommended online, lives up to the hype. My first visit was peaceful, with many customers quietly working, creating a library-like atmosphere. They offered limited-time Wi-Fi via voucher, typical for cafes. The air conditioning makes it a comfortable workspace.",
+      "Coffee choices are good, and the burnt cheesecake is a must-try. For healthy options, they have excellent non-dairy drinks and vegan pancakes. The matcha with coconut milk was a personal favorite."
+    ],
+    "images": [
+      "/assets/images/philippines/spotted_pigs_1.jpg",
+      "/assets/images/philippines/spotted_pigs_2.jpg",
+      "/assets/images/philippines/spotted_pigs_3.jpg"
+    ]
+  },
+  {
+    "cafe_id": 4,
+    "country": "Philippines",
+    "cafe_name": "Kasikas",
+    "date_created": "March 23, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "Diego De La Vina Rd, Dumaguete",
+    "time": "Tuesday to Sunday 11 am – 9 pm | Close Monday",
+    "instagram": "https://www.instagram.com/kasikas.phil?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "facebook": "https://www.facebook.com/kasikas.dgt",
+    "paragraphs": [
+      "Kasikas Cafe presents a compelling blend of rustic charm and botanical tranquility, evident in its thoughtfully design interior. The expose, raw wall finished create an industiral-chic aesthetic, softened by the lush presence of strategically placed indoor plants, fostering a refreshing and inviting atmosphere.",
+      "The cafe's beverage offerings are a definite highlight, with their coffees and specialty drinks earning high praise. Notably,the matcha stands out for its vibrant flavor and smooth texture, while the cortado delivers a perfectly balance espresso experience. The iced caramel machiatto is another crowd-pleaser, showcasing a delightful harmony of sweetness and coffee richess.",
+      "A significant advantage for those with varying coffee preferences is the attentive staff, who proactively inquire about the preferred espresso strenght, ensuring each cup is tailored to individual tastes.",
+      "While the cafe also offers rice meals, these were not sampled during this particular visit. The selection of finger foods, though consisting of familar cafe staples, provides ample portion for the price, offering good value.",
+      "A notable drawback is the absence of Wi-Fi, however, the reilable mobile data signal in the area compensates for this, allowing for seamless online connectivity.",
+      "Overall, Kasikas Cafe presents a conduciv environment for both focused study sessions and releaxed social gatherings, making it a worthy consideration for anyone seeking a unique cafe experience with exceptional beverages and a pleasant ambiance."
+    ],
+    "images": [
+      "/assets/images/philippines/kasikas_1.jpg",
+      "/assets/images/philippines/kasikas_2.jpg"
+    ]
+  },
+  {
+    "cafe_id": 5,
+    "country": "Philippines",
+    "cafe_name": "Kape De Guyod",
+    "date_created": "March 27, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "In front of Monkey Business, San Juan, 6227 Siquijor",
+    "time": "Monday to Sunday 8am – 9pm",
+    "instagram": "https://www.facebook.com/share/18F2vEGc16/?mibextid=wwXIfr",
+    "facebook": "https://www.instagram.com/kapedeguyod?igsh=cXFreGNqdTFxNjVp",
+    "paragraphs": [
+      "A bamboo café with a beautiful sea view. You can watch the waves while sipping your coffee in a nipa hut. Very chill and relaxing spot in Siquijor.",
+      "Their drip coffee is nice and they have a native menu using local ingredients. Great spot to unwind."
+    ],
+    "images": [
+      "/assets/images/philippines/kape_de_guyod_1.jpg",
+      "/assets/images/philippines/kape_de_guyod_2.jpg",
+      "/assets/images/philippines/kape_de_guyod_3.jpg"
+    ]
+  },
+  {
+    "cafe_id": 6,
+    "country": "Philippines",
+    "cafe_name": "But First, Coffee",
+    "date_created": "February 23, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "G/F, Locsin Heritage House, Dr. V. Locsin St, Dumaguete City",
+    "time": "Monday to Sunday 9:00 am – 12:00 am",
+    "instagram": "https://www.instagram.com/butfirstcoffeedgte?igsh=bjgxemtzM3dkamM3",
+    "facebook": "https://www.facebook.com/share/1WkWrCCWx9/?mibextid=wwXIfr",
+    "paragraphs": [
+      "A must go-to coffee shop if you visit Dumaguete. If you want to hang out or chill on cafes with nice ambience, cold, with wifi, and fancy interior, this café is for you. They have lots on their menu! drip-based coffee for those who wants their coffee mild, espresso based for those people who prefer a strong concentrated coffee flavor, matcha based for my besties out there who likes to take their caffeine a different way, and non-coffee drinks for those who does not fancy the taste of coffee.",
+      "I would recommend their caramel macchiato or white chocolate mocha if you want your coffee a bit sweet and creamy but if you’re a bold one and wants it strong you can always add an extra shot of espresso for 30.00, very affordable! You can check out their menu below for more add ons."
+    ],
+    "images": [
+      "/assets/images/philippines/but_first_coffee_1.jpg",
+      "/assets/images/philippines/but_first_coffee_2.jpg",
+      "/assets/images/philippines/but_first_coffee_3.jpg",
+      "/assets/images/philippines/but_first_coffee_4.jpg"
+    ]
+  },
+  {
+    "cafe_id": 7,
+    "country": "Philippines",
+    "cafe_name": "Kapeng Lokal",
+    "date_created": "February 23, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "Across Old GSIS building, Bantayan, Dumaguete City ",
+    "time": "Monday to Saturday 6am – 10pm Sundays 12:30pm – 8pm",
+    "instagram": "https://www.instagram.com/kapenglokaldgt?igsh=djViZXcwYTBucmo3",
+    "facebook": "https://www.facebook.com/share/1Dqzaq2s3s/?mibextid=wwXIfr",
+    "paragraphs": [
+      "This is the go-to coffee shop of most of dumaguetenos because it’s affordable and good enough for its price. Kapeng local is located near the beach coast of Dumaguete hence why people enjoy getting their coffee there and sit by the seawall and talk. Menu? I would say they have a quite a lot of options too, they have drip-based coffee and non-coffee.",
+      "Two sizes to choose from which is regular and giant (btw their giant is like twice the size of their regular size) prices vary too of course. Regular sized drinks range from 50.00 – 85 pesos and their giants for 95.00 – 160.00 pesos. What to get? I would recommend getting their Spanish latte if you want a sweet, creamy blend for your coffee, matcha espresso, and their iced matcha. Cons? They don’t really have one unless you have set a high standard for your coffee then I would say just don’t expect much"
+    ],
+    "images": [
+      "/assets/images/philippines/kapeng_lokal_1.jpg"
+    ]
+  },
+
+  {
+    "cafe_id": 8,
+    "country": "Philippines",
+    "cafe_name": "Uncharted Coffee",
+    "date_created": "February 16, 2025",
+    "created_by": "Vyron Galapin and Gwen Teves",
+    "location": "Lion's Den, Tubtubon, Sibulan",
+    "time": "Monday to Sunday 1pm to 8 pm",
+    "instagram": "https://www.instagram.com/unchartedcoffeeph/",
+    "facebook": "https://www.facebook.com/unchartedcoffeeph",
+    "paragraphs": [
+      "Uncharted Coffee in Dumaguete City is a small cafe and roastery that specializes in expertly brewed espresso and hand drip coffee using beans they roast in-house.",
+      "Their menu includes unique signature drinks and a small selection of quality food. The indoor space is compact with a few stools, while the outdoor area offers two tables and some benches. It's an ideal spot for serious coffee enthusiasts or anyone seeking a clean, minimalist space to enjoy a cup of great coffee."
+    ],
+    "images": [
+      "/assets/images/philippines/uncharted_coffee_1.jpg",
+      "/assets/images/philippines/uncharted_coffee_2.jpg"
+    ]
+  },
+  {
+    "cafe_id": 9,
+    "country": "Vietnam",
+    "cafe_name": "Oops Taiwan Dessert Milk Tea",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "Cafe apartment, 42 Nguyen Hue, Ben Nghe, District 1",
+    "time": "Monday to Sunday 9:30 am - 10:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "While exploring the Café Apartments in Ho Chi Minh City, we ended up at a café called OOPS - not because we were dying to try it, but because it felt like the most reasonable option at the time. It was close to our hotel, but the walk wasn’t ideal, so we took a quick Grab ride. Once inside the building, we realized there’s no clear list of what cafés are where, so we had to check out each level one by one, which was kind of tiring.",
+      "We stopped at OOPS mostly out of convenience. It was lower in the building, and we were already worn out from walking up and down. The café looked okay - a bit dim and quiet - and it had that typical cozy-but-not-memorable vibe. Nothing stood out about the place, but we were just looking for something affordable and local feeling.",
+      "I ordered a coconut coffee, and my girlfriend got a milk chocolate drink. Both came out as slushies - not what we expected at all. The texture, the taste, the aftertaste... it just didn’t hit right for either of us. The coconut coffee especially was a letdown - too icy, too bland, and not the creamy, bold flavor I usually love in Vietnamese-style drinks.", 
+      "Price-wise, it wasn’t terrible, but the taste just didn’t justify the cost. It felt like a “drink and forget” kind of experience - nothing we’d go back for, and not something I’d recommend if you're looking to actually enjoy your coffee.",
+      "If you’re in the Café Apartments and want a satisfying coffee experience, I’d say skip OOPS and take the extra steps (literally) to find something better. There are other spots in the building that are worth the effort - this just wasn’t one of them."
+    ],
+    "images": [
+      "/assets/images/vietnam/Oops 1.JPEG",
+      "/assets/images/vietnam/Oops 2.JPEG",
+      "/assets/images/vietnam/Oops 3.JPEG",
+      "/assets/images/vietnam/Oops 4.JPEG",
+      "/assets/images/vietnam/Oops 5.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 10,
+    "country": "Vietnam",
+    "cafe_name": "YoshiYoshi Coffee & Tea",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "132 Calmette Street, Nguyen Thai Binh Ward, District 1",
+    "time": "24 hours 7 days a week",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Yoshi Yoshi isn’t exactly a coffee shop - it leans more toward a milk tea joint - but they do offer coffee options, and it was the only nearby spot open late at night during our stay in Ho Chi Minh City. It’s a franchise place, spelled exactly the same twice: Yoshi Yoshi. We weren’t hunting for anything fancy - just something quick to drink before calling it a night - and this place happened to be just down the street from our hotel.",
+      "The shop itself is two stories, with a bright and modern Gen Z vibe. Think neon colors, upbeat music, lots of seating, and a pretty lively atmosphere. The first time we went, we had a bit of trouble finding the entrance because the door was sensor-based - something we don’t often see back in the Philippines. We awkwardly tried to push it at first before realizing how it worked, but it gave us a good laugh.",
+      "Price-wise, Yoshi Yoshi sits in that “not too cheap, not too expensive” sweet spot. If you’re on a date or just want to chill somewhere casual and comfortable without spending too much, this is a solid pick. It's not budget coffee, but it's still affordable.",
+      "We ordered a mix of drinks across our visits - I don’t remember exactly what coffee I got, but I know we tried oolong tea and a few other things too. The menu is huge, more like a milk tea shop than a café, with lots of mix-ins and flavors to choose from. We ended up coming back three times - mostly because my girlfriend liked it (or maybe just liked the excuse to walk back).",
+      "The second floor is actually pretty cool. It has a balcony area at the back with extra tables, great for hanging out, especially if you can snag a quiet spot. That said, the place does get crowded with local teens and Gen Z groups just chilling and being loud, so if you're not into that kind of energy, it might not be your scene.",
+      "Overall, Yoshi Yoshi isn’t a specialty coffee destination - but for late-night drinks, decent prices, and a social atmosphere, it’s a solid option. Would I recommend it? Yeah - especially if you're just looking for a casual spot to hang, sip, and people-watch."
+    ],
+    "images": [
+      "/assets/images/vietnam/Yoshi Yoshi 1.JPEG",
+      "/assets/images/vietnam/Yoshi Yoshi 2.JPEG",
+      "/assets/images/vietnam/Yoshi Yoshi 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 11,
+    "country": "Vietnam",
+    "cafe_name": "Kai Coffee",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "139 Nguyen Thai Binh, Nguyen Thai Binh Ward, District 1",
+    "time": "24 hours 7 days a week",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "If you're looking for a late-night spot to work, study, or just chill with a decent cup of coffee, Kai Coffee is one of the best 24-hour cafés we found in Ho Chi Minh City. It's a popular place among digital nomads and locals who need a space to focus - and with free Wi-Fi, lots of seating, and solid air conditioning, it checks most of the boxes.",
+      "At first glance, the café looks small from the outside. The ground floor is just a simple counter area for ordering and pickup, nothing too flashy. But once you head upstairs, it’s a whole different story. The second floor opens up into a spacious, fully air-conditioned room with around 30–50 tables, each with power outlets and decent lighting. There’s even free water available on that level, so you don’t need to keep running downstairs. It’s clearly designed with long work sessions in mind.",
+      "The third floor, or what they call the rooftop penthouse, has no air-conditioning, but it offers a relaxed, open-air vibe. Perfect for those who don’t mind the heat and want a more laid-back hangout spot. Just a heads-up though - the stairs are a bit tight. If you’re a bigger person or wearing something not stair-friendly, getting up there might feel a little awkward.",
+      "Now, about the drinks - they’re decent. Nothing mind-blowing, but good enough for a café that’s really more about utility and vibe than craft brews. Since Kai Coffee is a franchise, the coffee has that familiar taste you’d find in similar chains - reliable, but not necessarily unique. Prices are fair for what you get.",
+      "What makes this place stand out isn’t the coffee - it’s the vibe. It’s that kind of place where you can focus, sit down with your laptop, or have a quiet conversation without feeling rushed. Just don’t hang out too long on the second floor during peak hours - people go there to work, and you’ll definitely feel that energy.",
+      "If you’re staying in Ho Chi Minh and need a spot to grind at 2 AM, or just want a reliable, chill place to reset - Kai Coffee is definitely worth a visit."
+    ],
+    "images": [
+      "/assets/images/vietnam/Kai Coffee 1.JPEG",
+      "/assets/images/vietnam/Kai Coffee 2.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 12,
+    "country": "Vietnam",
+    "cafe_name": "Coffee House",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "141 Nguyen Thai Binh, Nguyen Thai Binh Ward, District 1",
+    "time": "Monday to Sunday 7:00 am - 10:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Right next to Kai Coffee in Ho Chi Minh City is another spot called The Coffee House. What pulled us in was its more Western-style menu - especially because my girlfriend had been craving a caramel macchiato. Not every café in Vietnam serves American-style drinks, so finding one that does (and does it well) was a win.",
+      "Walking in, the place instantly gave off those modern American city café vibes. Think Starbucks-style, but less commercial and more relaxed. Not hipster, not minimalist - just straightforward, clean, and familiar. For anyone who’s used to American coffee chains, this place will feel like home.",
+      "The prices are very reasonable, especially compared to places like Starbucks in the Philippines. The drinks were actually better than we expected. Strong coffee, smooth texture - and yeah, no surprise there. Vietnamese coffee in general packs a punch, and this place keeps that tradition alive even with a Western twist.",
+      "The shop has three floors, and the best part? Each one has its own bathroom - something you don't see every day in Southeast Asia cafés. Everything was clean and well-maintained. The vibe inside was chill, with fewer people than Kai Coffee next door, making it a better choice if you’re looking to unwind or chat for a bit.",
+      "One small warning though: the stairs are steep and narrow. Vietnam, being a country with one of the lowest obesity rates, doesn’t cater much to big staircases. If you're wearing tight shoes, lugging heavy bags, or just not in the mood to climb, this might not be the most comfortable café to hang out in. There’s no elevator, so if you want a quick sit-and-sip experience, aim for the first floor.",
+      "Overall, The Coffee House is a solid option for anyone looking for a Western-style café experience in Vietnam - strong drinks, decent prices, and a familiar setup without the chaos of a crowded chain."
+    ],
+    "images": [
+      "/assets/images/vietnam/Coffee House 1.JPEG",
+      "/assets/images/vietnam/Coffee House 2.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 13,
+    "country": "Vietnam",
+    "cafe_name": "WagWel Canine - Rescue Dog Cafe",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "24/2 Tran Ngoc Dien Street, An Khanh Ward, Thu Duc",
+    "time": "Monday to Sunday 9:00 am - 9:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Wagwel Canine Coffee isn’t your typical coffee shop - it’s more like a dog rescue center and café hybrid, and that’s exactly what made it stand out. My girlfriend and I found it on TikTok, where people were showing off the adorable dogs, and since she’s a dog lover, we decided to check it out. It was a bit of a ride from our hotel, but she covered the Grab, so off we went.",
+      "At first, we were unsure if we were even in the right place. From the outside, it looked more like an animal shelter than a café - gated, quiet, and honestly a little confusing. But once we stepped in, things started to make sense. The owner, an American guy, greeted us at the entrance. There’s an entrance fee (non-consumable), which felt fair since they’re clearly supporting rescue efforts.",
+      "Inside, it’s a lot more vibrant - dogs walking around, a small café setup, food options, and yes, plenty of dog stands. Some dogs wore colored bandanas that indicated whether they could be pet or not. It’s a good system in theory, but honestly, it made things a bit confusing. Some dogs that could be pet didn’t want to be touched, and others that couldn’t be pet came running for attention. It was cute and chaotic all at once.",
+      "There were also guests bringing their own dogs, which made it even harder to tell which dogs were part of the café and which weren’t. Still, it was a fun place to be if you’re a dog lover - you just have to respect the dogs’ space and accept that not all of them are in the mood for cuddles.",
+      "Now for the surprise: the food and coffee were actually really good. I wasn’t expecting much from a place focused on dogs, but the coffee was strong, flavorful, and the food menu didn’t disappoint. Yes, it’s a bit pricey - probably because it’s foreign-owned and part of the proceeds go toward the rescue efforts - but in this case, it felt worth it. They even offer an annual membership program, which felt a little unnecessary for tourists like us, but maybe makes sense for locals who visit often.",
+      "Would I go back? Maybe not regularly, but yes - for the experience, I’d absolutely recommend it. If you’re a dog lover and want to do something different in Ho Chi Minh City, Wagwel Canine Coffee is a fun and memorable stop."
+    ],
+    "images": [
+      "/assets/images/vietnam/WagWel 1.JPEG",
+      "/assets/images/vietnam/WagWel 2.JPEG",
+      "/assets/images/vietnam/WagWel 3.JPEG",
+      "/assets/images/vietnam/WagWel 4.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 14,
+    "country": "Vietnam",
+    "cafe_name": "GOC Ca Phe",
+    "date_created": "June 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "50 Nguyen Thai Binh, Nguyen Thai Binh Ward, District 1",
+    "time": "Monday to Sunday 7:00 am - 2:00 am (next day)",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "On our last night in Ho Chi Minh City, we ended up at a place called G.O.C. Café. We weren’t planning it - we were just walking around, soaking up our final moments in the city, and this spot caught our eye. What really stood out wasn’t the café itself, but how alive the area felt. Crowds of people sitting outside, talking, laughing, sipping coffee. It made me realize: coffee isn’t just a drink in Vietnam - it’s a lifestyle.",
+        "G.O.C. is one of those no-frills, very local spots. The seating is mostly outside, plastic stools and tiny tables lining the sidewalk. It’s tight and packed, and you might have to search for a free spot. But once you settle in, it’s easy to get why people love it. There’s something raw and honest about the vibe - like you’re sitting right in the rhythm of the city.",
+        "The coffee is super cheap, but in a good way - not watered down or low quality, just simple, strong, and made for everyday people. Don’t expect any fancy names or Western-style drinks here. This isn’t that kind of place. It’s where friends meet up after work or class, sip slowly, talk for hours, or scroll through their phones. It’s casual, loud, and social.",
+        "Would I recommend it to tourists? Honestly, only if you’re trying to experience something real. This place isn’t built for travelers or TikTok trends. But if you want to see what local life looks like on a regular night in Ho Chi Minh - G.O.C. Café is it."
+    ],
+    "images": [
+      "/assets/images/vietnam/Goc 1.JPEG",
+      "/assets/images/vietnam/Goc 2.JPEG",
+      "/assets/images/vietnam/Goc 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 15,
+    "country": "Vietnam",
+    "cafe_name": "My Coffee",
+    "date_created": "July 17, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "122 Calmette Street, Nguyen Thai Binh Ward, District 1",
+    "time": "Not Provided",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+          "Our first café stop in Ho Chi Minh City was a little spot called My Coffee. We hadn’t even checked into our hotel yet when a hotel staff member recommended it. We had time to kill and figured, why not? At first, we were skeptical - it was an open-air setup with tiny chairs and tables outside. From a distance, it looked like one of those street cafés you’d pass by without a second glance. We weren’t sure if it was worth it.",
+          "But once we walked in, the vibe started to shift. The guy who greeted us spoke English really well - a nice surprise in a country where that’s not always common. He was warm, welcoming, and made us feel at ease right away. We looked at the menu, and to be honest, the prices were surprisingly cheap - especially compared to what we were used to in the Philippines. That already scored points.",
+          "We still had to sit outside on those little plastic stools with the tiny table, which felt a bit awkward at first. But when the drinks arrived? Game changer. I ordered an egg coffee, and it completely blew me away - creamy, rich, sweet, and smooth. It’s the drink that made me fall in love with egg coffee in the first place. My girlfriend had the matcha, and while she said it was a bit powdery, it was still pretty decent for the price.",
+          "The location itself had that classic Vietnamese street energy - busy surroundings, people walking by, scooters zooming past - but somehow it still felt peaceful enough to enjoy a good cup of coffee. It’s not a flashy spot, and it’s not in the trendiest area, but My Coffee has something that sticks with you.",
+          "If you’re staying nearby, definitely don’t skip this place. It’s not the kind of café you’d travel across the city for, but if you’re in the area, it’s absolutely worth the stop - especially if you’ve never tried egg coffee before. Trust me, you’ll get hooked."
+    ],
+    "images": [
+      "/assets/images/vietnam/My Coffee 1.JPEG",
+      "/assets/images/vietnam/My Coffee 2.JPEG",
+      "/assets/images/vietnam/My Coffee 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 16,
+    "country": "Vietnam",
+    "cafe_name": "Little Hanoi",
+    "date_created": "July 17, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "119/5 Yersin, Pham Ngu Lao Ward, District 1",
+    "time": "Monday to Sunday 7:30 am – 9:30 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "After falling in love with egg coffee at My Coffee, I started hunting down other places to try more - and Little Hanoi kept popping up on TikTok. It’s known as one of the most popular spots in Ho Chi Minh City for a Northern-style café experience, and I was curious. The first time I tried to go, my girlfriend was working, so I dropped by alone. I didn’t end up ordering anything though - turns out they don’t do takeout. A bit of a letdown at the time, but I respected the style. The place gives off this “slow down and stay a while” kind of energy.",
+      "A few days later, I convinced my girlfriend to come with me so we could actually sit down and experience it properly - and I’m really glad we did. The vibe inside Little Hanoi is warm, calm, and cozy. It felt like walking into someone’s home, with soft lighting, tasteful furniture, and music that sets the mood just right. It wasn’t dead quiet, but people spoke gently, which gave the space a really peaceful energy.",
+      "I went straight for the egg coffee again, obviously - and it was worth it. Small cup, higher price than average, but man, the flavor was rich and smooth. One of the best versions I’ve had. My girlfriend ordered something more familiar - maybe a caramel latte or macchiato - and she enjoyed it too. We also grabbed some food: spring rolls (lumpia-style), and they were surprisingly good for a café snack. Crispy, flavorful, and not overpriced.",
+      "Even though Little Hanoi sits on the more premium end of the coffee spectrum, I’d say it’s totally worth it. The whole place just invites you to slow down and soak in the atmosphere - no rush, no noise, just good coffee and a relaxing space to enjoy it.",
+      "If you’re in Ho Chi Minh City and want a taste of that Hanoi café charm without flying North, this spot is a must. It’s not just about the coffee - it’s about the feeling you get when you’re there."
+    ],
+    "images": [
+      "/assets/images/vietnam/Little Hanoi 1.JPEG",
+      "/assets/images/vietnam/Little Hanoi 2.JPEG",
+      "/assets/images/vietnam/Little Hanoi 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 17,
+    "country": "Vietnam",
+    "cafe_name": "Koi Garden Coffee",
+    "date_created": "July 17, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "105 Tran Hung Dao Street, Ward 1, An Dong District",
+    "time": "Monday to Sunday 7 am to 11 pm ",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "We found The Koi Garden Coffee through TikTok and instantly knew we had to check it out. The layout looked wild - tables set up around a koi pond, but not just next to it - over it. The seating is designed like hollow circular platforms built into the pond, so when you’re sitting down, you’re basically surrounded by water and koi fish swimming under and around you. It’s hard to describe, but trust me, the setup is creative and super fun.",
+        "What really surprised us was how clean everything was. With all the fish and water, you’d expect the place to be a little messy or smell off, but it was spotless. The koi pond was well-maintained, and the whole area felt peaceful and fresh - even without air conditioning. They had big fans going and just enough breeze coming off the water to keep us comfortable, which was impressive given how humid it usually is in Vietnam.",
+        "As for the coffee, it was better than I expected. I ordered a cocoa-based coffee drink, and it hit the spot - rich, chocolatey, and refreshing. My girlfriend got something else (don’t ask me what - check the photos), but she seemed to enjoy it too. We also ordered fries, which were fine - nothing crazy, but they did the job. One of the best parts? Feeding the koi. We tossed some food in and watched the frenzy - it added a playful energy to the whole visit.",
+        "Price-wise, it’s slightly on the higher end, but that’s fair considering the unique experience. You’re not just paying for a drink - you’re paying for the atmosphere. The place wasn’t too crowded when we went, which made the experience even more relaxing.",
+        "Would I go back regularly? Probably not. But would I recommend it? Absolutely. The Koi Garden Coffee is one of those places that’s worth visiting at least once, especially if you want a fun twist to your café hunt in Ho Chi Minh City. It’s different, it’s peaceful, and yeah - the fish are part of the charm."
+    ],
+    "images": [
+      "/assets/images/vietnam/Koi Garden Coffee 1.JPEG",
+      "/assets/images/vietnam/Koi Garden Coffee 2.JPEG",
+      "/assets/images/vietnam/Koi Garden Coffee 3.JPEG",
+      "/assets/images/vietnam/Koi Garden Coffee 4.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 18,
+    "country": "Vietnam",
+    "cafe_name": "Good Days Tea & Coffee",
+    "date_created": "July 17, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "Cafe apartment, 42 Nguyen Hue, Ben Nghe, District 1",
+    "time": "Monday to Sunday 8:00 am - 11:30 pm ",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "If you’re heading to Ho Chi Minh City and love checking out cafés, you’ve probably heard of the Café Apartments - a multi-story building packed with coffee shops, boutiques, and Instagrammable corners. It’s one of the city’s most popular hangout spots, especially for café lovers. One of the cafés we visited there was Good Day, which is located at the very top.",
+        "Now, here’s the funny part - to get to Good Day, we took the elevator… but you have to pay to use it. Not a lot, just a small fee, but still - it’s a bit weird if you’re not expecting it. I guess if you want to save that money (and burn some calories), you can take the stairs. It’s not too high, but trust me, you’ll feel it.",
+        "Once we got up there, the view made it worth it. You’re right above the city with this breezy, open patio-type setup that feels peaceful and stylish. The ambiance is definitely geared toward the aesthetic crowd - think rooftop vibes, chill music, and the kind of place you want to take photos at. It’s got that whole “Instagram café” thing down.",
+        "As for the coffee? It was alright. Honestly, we’ve had better - especially considering the price. Good Day is definitely on the pricier side compared to other spots in Ho Chi Minh. We ordered some food too - a pizza, and… well, let’s just say it didn’t live up to the price tag. Tiny portion, not very satisfying.",
+        "That said, if you’re already planning to visit the Café Apartments, Good Day is one of the better options at the top. You’re really going for the view, the photos, and the experience of being up there. Just don’t expect it to be the best coffee or food you’ll find in the city.",
+        "Would I recommend it? Yeah - for the experience, not the taste. And if someone tells you there’s a better spot in the building, they might be right. But Good Day is still a solid choice if you’re looking to soak in the view and snap a few rooftop shots while sipping something nice."
+    ],
+    "images": [
+      "/assets/images/vietnam/Good Days Cafe 1.JPEG",
+      "/assets/images/vietnam/Good Days Cafe 2.JPEG",
+      "/assets/images/vietnam/Good Days Cafe 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 19,
+    "country": "Thailand",
+    "cafe_name": "HappyBlue Coffee - the neighborhood cafe",
+    "date_created": "July 22, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "3 25 Samlan Soi 7, Tambon Si Phum, Mueang Chiang Mai District",
+    "time": "Monday to Friday 8:00 am to 11:00 pm | Saturday 9:00 am to 11:00 pm | Sunday 9:00 am to 6:00 pm ",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "On our last day in Chiang Mai, we were looking for a place to just chill. We had already checked out of our hotel, left our luggage at the front desk, and had a long wait before our late-night flight - somewhere around 11 PM. After visiting three or four coffee shops in just a couple of days, we were honestly coffeed-out. But we still needed somewhere to hang out, relax, and kill some time.",
+      "That’s how we found Happy Blue Coffee, tucked away in the Old City area. I spotted it on Google Maps, and since it was close to our hotel, we figured we’d give it a shot. And man, it turned out to be a really good call.",
+      "The place had a warm, homely vibe - nothing too flashy, just simple and comforting. It kind of felt like walking into someone’s living room. There were a few foreigners quietly working on laptops, soft music playing, and just an overall peaceful energy. The barista (or maybe the owner?) spoke great English and was super friendly, which made everything smooth from the start.",
+      "Instead of more coffee, we ordered lemon tea and a croffle - and both hit the spot. Light, tasty, and perfect for a break from all the caffeine. The space had everything we needed: good music, fast Wi-Fi, comfy seating, and even free water. It was the perfect little pocket of calm in the middle of the Old City.",
+      "If you’re in Chiang Mai, especially in the Old City area, and need a quiet place to rest, work, or just cool down - Happy Blue Coffee is 100% worth checking out. Nothing over-the-top, just solid drinks, a chill atmosphere, and good people running the place."
+    ],
+    "images": [
+      "/assets/images/thailand/HappyBlue Coffee 1.jpg",
+      "/assets/images/thailand/HappyBlue Coffee 2.jpg",
+      "/assets/images/thailand/HappyBlue Coffee 3.jpg",
+      "/assets/images/thailand/HappyBlue Coffee 4.jpg"
+    ]
+  },
+  {
+    "cafe_id": 20,
+    "country": "Thailand",
+    "cafe_name": "Neighborhood Goods",
+    "date_created": "July 19, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "23/4 Ratvithi Rd, Soi Sanam Kela Lane 2",
+    "time": "Monday to Sunday 8:30 am – 5:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+            "While exploring Old Town Chiang Mai on foot - something I really enjoy doing - I decided to check out a café I found on Google Maps called The Neighborhood Goods. The reviews were almost perfect, with people praising the coffee and atmosphere, so naturally, I wanted to give it a shot.",
+            "The walk there was nice, but finding the place was a bit tricky. I was expecting something larger or more noticeable - maybe a big white-and-red building - but when I arrived, it turned out to be a tiny spot tucked away on a quiet corner. The space inside was just as small, and while there were a decent number of chairs, it felt more cramped than cozy.",
+            "Their coffee menu was very basic, and to be honest, the prices were higher than I expected for such a minimalist setup. I decided to take my coffee to go, and unfortunately, it didn’t live up to the reviews. It was just… not great. Definitely not worth the price, and I walked away regretting the choice.",
+            "That said, the barista was kind and spoke English really well, which I appreciated. So while the service was friendly, the coffee and overall experience just didn’t match the high praise I saw online.",
+            "Maybe I caught them on an off day - or maybe the style just isn’t for me - but The Neighborhood Goods wasn’t a place I’d go back to. If you’re curious, feel free to check it out for yourself, but personally, I think there are much better coffee options around Chiang Mai that offer more value and flavor for the price."
+    ],
+    "images": [
+      "/assets/images/thailand/Neighborhood Goods 1.JPEG",
+      "/assets/images/thailand/Neighborhood Goods 2.JPEG",
+      "/assets/images/thailand/Neighborhood Goods 3.JPEG",
+      "/assets/images/thailand/Neighborhood Goods 4.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 21,
+    "country": "Thailand",
+    "cafe_name": "Man Made Coffee",
+    "date_created": "July 19, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "Front of Tambon Si Phum",
+    "time": "Monday to Saturday 8:00 am – 4:00 pm | Sunday Closed ",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "One morning in Chiang Mai, I decided to head out solo and walk around the Old Town just to see what I could find. I ended up at The Man-Made Coffee Shop - not a big café or a trendy spot, but more like a coffee cart setup with a few chairs scattered around. It reminded me a bit of the sidewalk coffee culture in Vietnam. Nothing fancy, just simple and straight to the point.",
+      "The walk to get there was longer than I expected, but the cool morning weather made it feel refreshing instead of exhausting. When I arrived, I checked the prices and was pleasantly surprised - very affordable, especially compared to what I’m used to paying back in the Philippines. I ordered a coffee and kept my expectations in check.",
+      "Taste-wise, it wasn’t anything mind-blowing, but it got the job done. It’s the kind of coffee you’d grab for a quick caffeine hit rather than a deep, slow sip. Still, the experience made up for it. The guy running the cart was friendly, spoke English well, and even gave me a few suggestions for other things to try in town. It was one of those interactions that feels small but makes your day a little better.",
+      "If you’re living in Chiang Mai or just staying nearby and want something fast, cheap, and local - The Man-Made Coffee Shop is worth a stop. It’s not about aesthetics or premium coffee blends. It’s just honest, simple, and reliable - perfect for a casual morning or when you just need to recharge during a walk through the city."
+    ],
+    "images": [
+      "/assets/images/thailand/man_made_coffee_1.jpg",
+      "/assets/images/thailand/man_made_coffee_2.jpg",
+      "/assets/images/thailand/man_made_coffee_3.jpg"
+    ]
+  },
+  {
+   "cafe_id": 22, 
+    "country": "Thailand",
+    "cafe_name": "Improvise Cofee",
+    "date_created": "July 19, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "43 Ratvithi Rd, Tambon Si Phum, Mueang Chiang Mai District",
+    "time": "Monday to Sunday 7:00 am – 6:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "The Improvised Coffee was one of those unexpected finds during our casual walk around Chiang Mai’s Old Town. My girlfriend and I were just exploring with no real destination in mind - slightly tired, slightly lost, and in desperate need of a caffeine fix. Then I spotted a poster advertising egg coffee, and my interest instantly kicked in. After just getting back from Ho Chi Minh City - where I became hooked on Vietnam’s signature egg coffee - I couldn’t pass this up.",
+        "I stepped in with high hopes. The price was a bit more than what I was used to in Vietnam, but I figured that was expected - we weren’t in Hanoi anymore. What surprised me, though, was the size. It was smaller than what I had in Vietnam and looked more “minimalist café” than “rich, indulgent street drink.” Taste-wise, it leaned sweeter, and while it wasn’t quite the same, it still satisfied my craving.",
+        "The café itself has a cool, creative layout. The main structure looks like it was built out of shipping containers - and it kind of feels like you’re hanging out on a container ship, in the best way possible. There’s a small, cozy container space where you can sit if you’ve ordered something, plus an upstairs seating area and a larger open-air section with big fans to keep things breezy.",
+        "It’s definitely not your average café. The design is quirky, the seating options are varied, and there’s plenty of space to just chill - especially if you want to enjoy your coffee slowly and escape the Chiang Mai heat.",
+        "Would I go back? If I’m ever craving egg coffee again while in Chiang Mai, for sure. The Improvised Coffee may not beat the Vietnamese original, but it offers something different - and in a city full of café options, it earns points for being memorable and bold with its concept."
+    ],
+    "images": [
+      "/assets/images/thailand/Improvise 1.jpg",
+      "/assets/images/thailand/Improvise 2.jpg",
+      "/assets/images/thailand/Improvise 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 23,
+    "country": "Thailand",
+    "cafe_name": "1st for Coffee",
+    "date_created": "July 19, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "43 Ratvithi Rd, Tambon Si Phum, Mueang Chiang Mai District",
+    "time": "Monday to Saturday 7:30 am – 8:30 pm | Sunday 8:00 am - 8:30 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "I stumbled into 1st For Coffee while wandering around Chiang Mai’s Old Town, just looking for something simple: a cheap café with air conditioning. It was one of those humid days where the sun feels like it’s sitting on your shoulder, so finding a cool spot was top priority. That’s when I found this place - quiet, tucked away, and exactly what I needed.",
+      "As I stepped in, there was this guy talking to himself - or rather, to his laptop - but he wasn’t loud enough to ruin the peace. I barely noticed him after a few minutes. The barista, who also handled the register, greeted me with a smile and spoke English really well. I ordered a hot cappuccino, which came out quickly, and to my surprise, she also served a glass of iced tea on the side - totally free. That small gesture hit the spot, especially after walking around in the heat.",
+      "The coffee was good, the space was cool, and there was free Wi-Fi. It had everything I was looking for, and nothing felt forced or overly fancy. I was just relaxing, sipping coffee, and waiting for my girlfriend to finish her shift so we could head out later that night.",
+      "Then out of nowhere, the laptop guy started chatting with me. He introduced himself as a Vietnamese guy teaching German - not sure why, maybe trying to flex in front of the barista? It was random, a little odd, but honestly didn’t ruin the vibe.",
+      "1st For Coffee isn’t flashy or Instagram-famous, but it’s one of those spots that does what a café should do: give you a comfortable place to sit, enjoy a good drink, and escape the heat for a while. If you’re roaming around Old Town and need a solid, no-fuss coffee break - this is a great place to drop into."
+    ],
+    "images": [
+      "/assets/images/thailand/1st for Coffee 1.JPEG",
+      "/assets/images/thailand/1st for Coffee 2.JPEG",
+      "/assets/images/thailand/1st for Coffee 3.JPEG",
+      "/assets/images/thailand/1st for Coffee 4.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 24,
+    "country": "Thailand",
+    "cafe_name": "Samorn Cafe Chiang Mai",
+    "date_created": "July 18, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "90 Tunghotel Rd, Wat Ket, Mueang Chiang Mai District",
+    "time": "Monday to Sunday 8:00 am – 5:30 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Out of all the cafés I’ve been to in Thailand - Samorn, Arabica, cat cafés, aesthetic spots - Samorn Café in Chiang Mai easily takes the top spot. Not just for the coffee (which is already amazing), but for the real stars of the place: the dogs. And not just any dogs - small, long, ridiculously cute dogs that will make you want to come back every single day. We did. We literally went four out of the five days we stayed in Chiang Mai.",
+      "Samorn is a dog café done right. The space is clean - all white and minimalist - and you wouldn’t even know there are dogs inside until you see them walking around. It’s super aesthetic, the kind of spot that just feels good to be in. And for a place full of animals, it’s shockingly spotless. Major props for that.",
+      "Now, the coffee. Smooth, flavorful, and just the right amount of punch to start your day. The price is fair - not cheap, but not high-end either. For the quality and the environment, it’s 100% worth it. Their dessert menu looked solid too, though we were usually too distracted by the dogs to focus much on sweets.",
+      "Language-wise, the staff didn’t speak much English, but that didn’t stop us from getting exactly what we wanted. We just pointed at what looked good, and they got it right every time. The only downside? The seating isn’t super comfy - small chairs, nothing fancy - but who cares when you’re surrounded by adorable dogs?",
+      "Some of the puppies weren’t too into being pet, but the older dogs? Total sweethearts. I even picked one up like it was my own dog. We took so many photos, it felt like we had adopted one for the day. We started calling one of them our “dog son,” and honestly, it felt right.",
+      "If you’re ever in Chiang Mai, go to Samorn Café. Even if you’re not a huge dog person, the vibe, the coffee, and the experience make it unforgettable. I’d go back in a heartbeat - and I’ll keep telling everyone I know to go too."
+    ],
+    "images": [
+      "/assets/images/thailand/Samorn 1.JPEG",
+      "/assets/images/thailand/Samorn 2.JPEG",
+      "/assets/images/thailand/Samorn 3.JPEG",
+      "/assets/images/thailand/Samorn 4.JPEG",
+      "/assets/images/thailand/Samorn 5.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 25,
+    "country": "Thailand",
+    "cafe_name": "TWENTY MAR",
+    "date_created": "July 18, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "Three Kings Monument, 216 Pra Pok Klao Rd Soi 1, Tambon Si Phum, Mueang Chiang Mai District",
+    "time": "Monday to Sunday 8:00 am – 6:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Our first coffee stop in Chiang Mai was Twenty Mar Café, and it definitely made a visual impression. The place had a clean, modern bar setup - sleek counter, moody lighting, and a very “aesthetic café” kind of vibe. The guy behind the bar had long hair and surfer energy, but he was Thai - spoke English really well and made us feel welcome without trying too hard. Cool dude.",
+      "We checked out the menu and saw the prices were a bit on the higher end, but since we were already there, we decided to roll with it. I ordered a Thai-style cappuccino - something new for us. The drink came out in a tiny glass, super fancy-looking, but I couldn’t help feeling like it was too small for the price. You know what I mean - it’s not that I want a giant cup, but just enough to feel like I got my money’s worth.",
+      "The coffee itself? Really good. No complaints on the flavor. It was rich and smooth, something you could tell was made with care. But the overall vibe of the place wasn’t really our scene. It was quiet, filled with ultra-aesthetic folks (mostly Korean tourists when we were there), and just had that “look cool and sip slowly” energy. We were just kind of there, taking a few photos, sipping our tiny coffee, and scrolling on our phones. Not exactly a spot for real talk or laughs - too quiet for that.",
+      "Music was playing, but low - not enough to drown out conversations, which made us feel like even talking normally would be too loud. It’s a vibe, for sure, just not our usual one.",
+      "All in all, Twenty Mar Café is great if you’re into minimal interiors, creative coffee, and snapping clean Instagram shots. But if you’re looking for a place to hang, talk, and chill out comfortably - this might be a one-and-done stop."
+    ],
+    "images": [
+      "/assets/images/thailand/Twenty-Mar 1.JPEG",
+      "/assets/images/thailand/Twenty-Mar 2.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 26,
+    "country": "Thailand",
+    "cafe_name": "Roast8ry Coffee Flagship Store",
+    "date_created": "July 18, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "24, 9 soi 17, Suthep, Muang",
+    "time": "Monday to Sunday 8 am – 9 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "We found Roast8ry Café (spelled “Roast” with the number 8 in the middle – Roast8ry) on TikTok, where coffee enthusiasts were hyping it up like it was the spot for high-end brews in Chiang Mai. As self-declared café explorers, we figured we’d check it out. But man… this one was a complete letdown from the start.",
+        "First off, the place is far. It’s located way outside Chiang Mai’s Old City, so we made a bit of a trek to get there. But the worst part? We couldn’t even find the entrance. There was construction going on, and what looked like a vent or side panel turned out to be the actual side door - no signs, no guidance, no one helping despite us clearly looking confused from outside. When we finally found what seemed like the main entrance, it was barely held together with what looked like a piece of electrical wire. Not exactly the warm welcome we expected.",
+        "Once inside, things didn’t get much better. The menu? Weird. The drink names were so out there we couldn’t tell what we were even ordering. Nothing was clearly labeled, and for a coffee shop, it felt like they were trying way too hard to be “different.” Add to that the insane prices - some of the highest we saw in Chiang Mai - and we were already in regret mode before our drinks even arrived.",
+        "I tried to go fancy and ordered a “chicken espresso” or something like that - no clue what the name meant, honestly. What I got was a canned coffee. Not joking - the drink literally came in a can, and I had to pop it open like I was at 7-Eleven. I couldn’t believe it. It felt gimmicky, overpriced, and completely underwhelming. My girlfriend’s drink? Equally disappointing. It tasted like watered-down cheap coffee.",
+        "Sure, the place had that polished, industrial aesthetic - lots of dark tones, “bar-style” seating - but the vibe was cold and uncomfortable. It felt more like an office trying to pose as a café. The whole experience just felt off, forced, and pretentious.Would I go back? Absolutely not. Roast8ry might be for someone who’s really into the niche coffee scene, but if you actually want to enjoy your drink and feel welcome, there are way better cafés in Chiang Mai. This one? All looks, no soul."
+    ],
+    "images": [
+      "/assets/images/thailand/roast8ry_1.jpg",
+      "/assets/images/thailand/roast8ry_2.jpg"
+    ]
+  },
+  {
+    "cafe_id": 27,
+    "country": "Thailand",
+    "cafe_name": "% Arabica Bangkok Central World",
+    "date_created": "July 18, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "Central World, 1st Floor, 4/5, No. 103 Ratchadamri Rd, Pathum Wan",
+    "time": "Monday to Sunday 8:00 am – 9:30 pm ",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "You’ve probably seen % Arabica before - it’s one of those coffee brands known around the world for its sleek aesthetic and minimalist design. So when we found one in Bangkok, we figured it was time to finally give it a try. The setup was pretty cool, to be honest. The café had this modern staircase-style seating where you could chill on giant steps with little tables scattered around. It definitely had that Instagram-friendly vibe going for it.",
+        "The menu had some fancy-sounding drinks, which made me feel like I was stepping into some high-end coffee ritual. But also… the prices matched that vibe - definitely on the expensive side. I went for the cheapest item I could find because I wasn’t ready to drop a fortune on a coffee I wasn’t sure I’d enjoy. And when I got my drink, it came in a paper cup. And you know how I feel about paper cups - not a fan, especially when I’m paying a premium.",
+        "Taste-wise, the coffee was just okay. Nothing mind-blowing. It was a bit on the lighter side, less creamy than I’d hoped, especially for the price. I expected something a bit more indulgent, a bit more flavorful. It didn’t hit that mark for me.",
+        "The crowd inside felt like the low-key rich type - dressed casually but clearly dripping with quiet money. It made the whole atmosphere feel a bit off for me, like I didn’t quite belong. Still, we took some decent photos, and I can’t deny the place looked great.",
+        "Would I recommend it? If you’re into stylish cafés and want a photogenic spot to check off your list, sure. It’s definitely one for the travel aesthetic. But if you’re in it for the coffee and not the vibe - or if you’re on a budget - there are better (and creamier) options out there."
+    ],
+    "images": [
+      "/assets/images/thailand/arabica_1.jpg",
+      "/assets/images/thailand/arabica_2.jpg"
+    ]
+  },
+  {
+    "cafe_id": 28,
+    "country": "Thailand",
+    "cafe_name": "Stir it Coffee",
+    "date_created": "July 18, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "678/53 Village No. 5 Bang Lamung District, Chon Buri",
+    "time": "Thursday to Tuesday 8:30 am – 5:00 pm | Closed Wednesday",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "Our first coffee stop in Pattaya was Stir It House Coffee, and it was exactly the kind of spot we needed after a long, two-hour morning drive. We were tired, just arriving in town, and looking for something calm and cozy to recharge. We stumbled upon this café and decided to give it a shot - and we’re glad we did.",
+      "The prices were surprisingly affordable, especially for a place in a tourist-heavy area. Pattaya can sometimes be pricey, but this café felt like a hidden gem. It’s not right in the middle of everything, but it’s still very accessible. We were the only customers there, which gave it a super chill, relaxed vibe. We ordered a couple of drinks and tried what I think was a cheesecake or cheese cupcake - either way, it was solid for the price.",
+      "Now let me tell you about Chubi, the cat. This place isn’t a cat café, but Chubi definitely stole the show.",
+      "He’s a sweet, mellow cat who doesn’t give you that usual cold cat stare - just pure, laid-back energy. He instantly took a liking to my girlfriend, which, I won’t lie, made me a little jealous. Dude kept going up to her like they were old friends. Still, it made the experience even better.",
+      "The space itself was aesthetic and peaceful - not overly decorated, but clean and thoughtfully designed. It’s the kind of café where you actually want to slow down, enjoy your drink, and just be present. Great lighting for photos, too.",
+      "If you’re in Pattaya and looking for a quiet, cozy spot to sip your coffee (and maybe meet a charming cat), Stir It House Coffee is definitely worth the stop. Just watch out - Chubi might charm your date before you do."
+    ],
+    "images": [
+      "/assets/images/thailand/Stir it Coffee 1.JPEG",
+      "/assets/images/thailand/Stir it Coffee 2.JPEG",
+      "/assets/images/thailand/Stir it Coffee 3.JPEG"
+    ]
+  },
+{
+    "cafe_id": 29,
+    "country": "Thailand",
+    "cafe_name": "After you",
+    "date_created": "July 15, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "222, Platinum Fashion Mall Building, 512 Phetchaburi Rd, Ratchathewi Subdistrict",
+    "time": "Monday to Sunday 10 am – 9 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "One of the best café experiences I had in Bangkok was at After You. We didn’t even realize how popular it was at first - we just saw a branch near the mall with a line of people waiting outside. Turns out, it’s one of the most well-loved dessert cafés in Thailand, often compared to Starbucks in terms of popularity. We got curious and decided to check it out.",
+        "At first glance, the café looked pretty upscale, and I honestly expected the prices to match the fancy atmosphere. Coming from the Philippines, I found the menu slightly pricey - around the same cost as Starbucks back home - and that made me a bit hesitant to order anything beyond the basics. I played it safe and got a café latte, while my girlfriend decided to try something more exciting: a croffle with ice cream.",
+        "That croffle completely blew us away. It was buttery, crispy, and warm, perfectly paired with the smooth, not-too-sweet ice cream on top. It instantly became one of our most memorable café desserts. Ever since that day, my girlfriend has been craving croffles wherever we go. Nothing else has quite matched that first bite at After You.",
+        "Even though we kept it simple with our orders, the quality and flavor were enough to leave a lasting impression. The vibe of the café was cozy yet modern, with just the right balance of comfort and class. It wasn’t just a quick coffee stop - it felt like a full experience.",
+        "If you ever find yourself in Bangkok, don’t skip After You. Be prepared to wait a bit, especially during peak hours, but know that it’s absolutely worth it. Whether you go for a drink, dessert, or both, it’s one of those places that makes you appreciate the little indulgences in life."
+    ],
+    "images": [
+      "/assets/images/thailand/After you 1.JPEG",
+      "/assets/images/thailand/After you 2.JPEG",
+      "/assets/images/thailand/After you 3.JPEG"
+    ]
+  },
+  {
+  "cafe_id": 30,
+  "country": "Thailand",
+  "cafe_name": "Benkoff",
+  "date_created": "July 15, 2025",
+  "created_by": "Vyron Galapin",
+  "location": "195 NT TOWER Thong Lo, Khlong Tan Nuea, Watthana",
+  "time": "Monday to Sunday 7:30 am – 4 pm",
+  "instagram": "",
+  "facebook": "",
+  "paragraphs": [
+    "When we heard about BENKOFF in Bangkok, we were genuinely excited. The main draw? Supposedly, there was a live dachshund you could hang out with while sipping your coffee. Being big dog lovers - especially dachshunds - we thought it would be the perfect little side trip. But when we got there, our excitement quickly turned into disappointment.",
+    "Everything in the café was dachshund-themed - from the wallpaper and merch to the cups and branding. Even the food menu had sausages, which felt like a cheeky nod to the breed. But here’s the thing: no dachshund. We looked around, waited, and even tried to ask - but nope, not a single sausage dog in sight. It felt a little misleading, especially since that was the whole reason we chose to visit.",
+    "Despite the lack of a warm welcome or much customer interaction, we didn’t really mind that part. We ordered two coffees and some food anyway. But then came another letdown: they served the drinks in paper cups, even though we were dining in. Personally, I’m not a fan of paper cups - especially when I’m paying a premium. The coffee itself? Not bad. It was creamy and smooth, but the portion was tiny for the price. I don’t remember the exact amount, but it definitely didn’t feel worth it.",
+    "We also tried the sausage, thinking it’d be hearty and flavorful. Instead, what we got was a mini-sized serving that barely made a dent in our appetite. It felt like the dachshund theme extended all the way to the portion size - which, while funny in hindsight, wasn’t so great at the time.",
+    "All in all, BENKOFF looked cute from the outside and had a fun concept, but it didn’t deliver on what we came for. If you’re expecting to meet an actual dachshund, lower your expectations. It’s a one-time experience for us - and honestly, there are way better coffee spots in Bangkok that offer more value, more heart, and real atmosphere."
+  ],
+  "images": [
+    "/assets/images/thailand/Benkoff 1.JPEG",
+    "/assets/images/thailand/Benkoff 2.JPEG",
+    "/assets/images/thailand/Benkoff 3.JPEG"
+  ]
+}
+,
+  
+  {
+    "cafe_id": 31,
+    "country": "Thailand",
+    "cafe_name": "Wadee.Cafe",
+    "date_created": "July 15, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "954 Ratchadaphisek 7 Alley, Intersection 1-15, Din Daeng",
+    "time": "Monday to Sunday 7:30 am - 6:00 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+      "WADEE.CAFE was the very first coffee shop we visited in Bangkok, and while it didn’t exactly blow us away, it did set the tone for our caffeine adventures across the city. The place itself was fine - clean, quiet, and easy to find. It wasn’t particularly memorable, but sometimes a simple start is all you need.",
+      "The coffee? Also just okay. Nothing too special or standout about it, but considering the price, I didn’t feel disappointed. It was affordable and accessible, especially for someone visiting Bangkok for the first time. If you’re just looking for a quick coffee stop that won’t hurt your wallet, WADEE.CAFE does the job.",
+      "One thing we really appreciated was the friendly barista who could speak English. That made the experience smoother and more relaxed for us. It was also a great walking area - the walk to the café was scenic, and we got to take in a bit of the local neighborhood vibe, which added to the charm.",
+      "While the coffee might not stick in my memory, I actually got a great photo inside - nice lighting and a clean aesthetic wall that made it Instagram-worthy. That one shot ended up being one of my favorite pictures from the trip.",
+      "Would I recommend WADEE.CAFE? Sure, if you’re nearby and want something affordable and easy. It’s not a must-visit, but it’s a solid option for a casual cup in a relaxed setting."
+    ],
+    "images": [
+      "/assets/images/thailand/Wadee.Cafe 1.JPEG",
+      "/assets/images/thailand/Wadee.Cafe 2.JPEG",
+      "/assets/images/thailand/Wadee.Cafe 3.JPEG"
+    ]
+  },
+  {
+    "cafe_id": 32,
+    "country": "Thailand",
+    "cafe_name": "Caturday Cat Cafe",
+    "date_created": "July 15, 2025",
+    "created_by": "Vyron Galapin",
+    "location": "10400, 89/70 Phaya Thai Rd, Thanon Phetchaburi, Ratchathewi",
+    "time": "Tuesday to Friday 12 pm – 9 pm | Saturday to Sunday 11 am - 8 pm",
+    "instagram": "",
+    "facebook": "",
+    "paragraphs": [
+        "If you’re in Bangkok and looking for a coffee spot with a twist, Caturday Cat Café might just catch your curiosity. It’s exactly what it sounds like - a café filled with cats. Lots of them. The vibe is cozy, chill, and full of feline energy… or lack thereof.",
+        "We went in expecting a fun time petting cats while sipping coffee. The entrance is technically free, but you’re required to order a minimum amount to get access to the cat area, which is fair enough. Once inside, we were surrounded by cats - some slow, some stylish-looking like they’d been through art school, and others that just radiated “don’t touch me” energy. Honestly, most of them were nonchalant and acted like we didn’t exist. If you’ve met cats before, you know the vibe - but compared to other cat cafés we’ve visited, these ones were definitely on the snobby side.",
+        "The seating style is Japanese-inspired - low tables and cushions on the floor. Cool aesthetic, but not the most comfortable setup if you’re not used to it. We didn’t come for the food, and frankly, I don’t even remember much about the coffee. The whole experience was really about the cats… even though the cats weren’t that into us.",
+        "Despite all that, I’d still say Caturday is one of the better cat cafés I’ve been to. It’s well-maintained, has a good variety of cats, and the environment feels thoughtfully put together. Just don’t expect cuddly kittens climbing all over you - it’s more of a “look, not touch” kind of place."
+    ],
+    "images": [
+      "/assets/images/thailand/caturday_cat_cafe_1.jpg",
+      "/assets/images/thailand/caturday_cat_cafe_2.jpg",
+      "/assets/images/thailand/caturday_cat_cafe_3.jpg"
+    ]
+  }
+]
+
+

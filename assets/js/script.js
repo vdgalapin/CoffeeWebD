@@ -1,23 +1,25 @@
-window.onload = function() {
+window.onload = function () {
     try {
         $("#HeaderLocation a").css("fontWeight", "normal");
-        let location = document.getElementById("Location").className;
-    
-        switch(location) {
+
+        // Get the value from the query string, e.g. ?country=Philippines
+        const params = new URLSearchParams(window.location.search);
+        const country = params.get("country");
+
+        switch (country) {
             case "Philippines":
-                document.getElementById("PhilippinesHeader").style.fontWeight = "Bold";
+                document.getElementById("PhilippinesHeader").style.fontWeight = "bold";
                 break;
             case "Thailand":
-                document.getElementById("ThailandHeader").style.fontWeight = "Bold";
+                document.getElementById("ThailandHeader").style.fontWeight = "bold";
                 break;
             case "Vietnam":
-                document.getElementById("VietnamHeader").style.fontWeight = "Bold";
+                document.getElementById("VietnamHeader").style.fontWeight = "bold";
                 break;
             default:
-    
+                // No matching country in URL
         }
-    } catch(err) {
+    } catch (err) {
         console.log(err);
     }
-
-}
+};
