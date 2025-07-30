@@ -85,6 +85,19 @@ permalink: /cafe_spots/cafe_article
           if (Array.isArray(article.images)) {
             slidesContainer.innerHTML = article.images.map(img => `<img src="{{ site.baseurl}}/${img}" alt="Cafe image" style="width:100%">`).join("");
           }
+          switch (article.country) {
+              case "Philippines":
+                  document.getElementById("PhilippinesHeader").style.fontWeight = "bold";
+                  break;
+              case "Thailand":
+                  document.getElementById("ThailandHeader").style.fontWeight = "bold";
+                  break;
+              case "Vietnam":
+                  document.getElementById("VietnamHeader").style.fontWeight = "bold";
+                  break;
+              default:
+                  // No matching country in URL
+          }
           // Start slideshow
           let index = 0;
           function nextSlide() {
