@@ -13,9 +13,17 @@ fetch('{{ site.baseurl }}/assets/data/cafes.json')
 .then(response => response.json())
 .then(data => {
   const urlParams = new URLSearchParams(window.location.search);
+  // Country Filter
   const countryFilter = urlParams.get('country');
+  // Date Filter
+  const dateFilter = urlParams.get('sort_date');
   const container = document.getElementById('CafeList');
   const filteredCafes = countryFilter ? data.filter(cafe => cafe.country.toLowerCase() === countryFilter.toLowerCase()) : data;
+  if (dateFilter == 'desc' ) {
+    filteredCafes.sort((a,b) => new Date(a.date_created) - new Date(b.date_created));
+  } else {
+    filteredCafes.sort((a,b) => new Date(b.date_created) - new Date(a.date_created));
+  }
   filteredCafes.forEach(cafe => {
     const col = document.createElement('div');
     col.className = 'col-md-6';
